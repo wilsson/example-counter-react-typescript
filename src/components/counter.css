@@ -1,0 +1,20 @@
+.btn{
+  border: none;
+  color: white;
+  background-color: #337ab7;
+  font-size: 20px;
+  padding: 20px 30px;
+  cursor: pointer;
+  margin:0 10px 20px;
+}
+
+.wrapper{
+  font-family: 'arial';
+  width: 650px;
+  margin: 200px auto 0;
+  text-align: center;
+}
+
+.counter{
+  font-size:40px;
+}
